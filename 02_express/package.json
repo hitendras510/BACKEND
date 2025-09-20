@@ -1,14 +1,24 @@
 {
-  "name": "02_express",
+  "name": "backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "Learning BACKEND !",
   "main": "index.js",
-  "types": "module",
   "scripts": {
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hitendras510/BACKEND.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hitendras510/BACKEND/issues"
+  },
+  "homepage": "https://github.com/hitendras510/BACKEND#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
