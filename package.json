@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/hitendras510/BACKEND/issues"
   },
-  "homepage": "https://github.com/hitendras510/BACKEND#readme"
+  "homepage": "https://github.com/hitendras510/BACKEND#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
